@@ -1,0 +1,15 @@
+div {
+    width: 2000px;
+    height: 2000px;
+    background-color: red;
+   animation-name: example;
+    animation: example 7s infinite; 
+}
+
+@keyframes example {
+    0% {background-color: red;}
+    25% {background-color: blue;}
+    50% {background-color: yellow;}
+    100% {background-color: green;}
+    
+}

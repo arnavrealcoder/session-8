@@ -1,0 +1,11 @@
+#grad1 {
+    background: radial-gradient(circle,red 5%,blue 10%,teal 70%);
+    height: 400px;
+
+}
+
+#grad2 {
+    background: linear-gradient(to top, red 20%, yellow, pink);
+    height: 400px;
+
+}
